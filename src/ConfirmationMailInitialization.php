@@ -1,6 +1,6 @@
 <?php
 
-namespace FormRelay\Mail;
+namespace FormRelay\ConfirmationMail;
 
 use FormRelay\ConfirmationMail\DataDispatcher\ConfirmationMailDataDispatcher;
 use FormRelay\ConfirmationMail\Route\ConfirmationMailRoute;
