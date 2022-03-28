@@ -34,8 +34,8 @@
     ],
     "require": {
         "php": "^7.2",
-        "form-relay/core": "^5.0 || ^6.0",
-        "form-relay/mail": "^3.0"
+        "form-relay/core": "^1.0 || ^2.0",
+        "form-relay/mail": "^1.0 || ^2.0 || ^3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4 || ^7.0"
