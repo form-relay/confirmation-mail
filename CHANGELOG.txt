@@ -1,4 +1,9 @@
+1.0.4
+
+[FEATURE] PHP 8.x support
+
 1.0.3
+
 [TASK] include compatibility for form-relay/mail 3.0
 
 1.0.2
